@@ -8,5 +8,7 @@
             "path": "[[workspace]]/_site"
         }
     ],
-    "frontMatter.git.enabled": true
+    "frontMatter.git.enabled": true,
+    "[markdown]": {
+    }
 }
