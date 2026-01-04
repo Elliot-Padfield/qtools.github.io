@@ -1,6 +1,7 @@
 ---
 title: QDissolve
 nav_order: 10
+parent: QTools
 ---
 
 # QDissolve
