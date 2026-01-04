@@ -2,7 +2,8 @@ title: QTools
 description: Small, focused docs for QTools Unity Asset Store tools.
 theme: just-the-docs
 
-url: https://qtools.github.io
+url: https://elliot-padfield.github.io
+baseurl: /qtools.github.io
 
 aux_links:
   QTools on GitHub: https://github.com/Elliot-Padfield/qtools.github.io
