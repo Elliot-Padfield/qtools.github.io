@@ -17,3 +17,7 @@ footer_content: >
 
 sass:
   sass_dir: _sass
+
+just_the_docs:
+  custom_css:
+    - custom
