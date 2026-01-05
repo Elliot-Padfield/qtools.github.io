@@ -4,7 +4,7 @@ set -euo pipefail
 cd "$(dirname "$0")/.."
 
 bundle exec jekyll serve \
-  --config _config.yml,_config_dev.yml \
+  --config _config.yml \
   --livereload \
   --open-url \
   --trace

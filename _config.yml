@@ -9,8 +9,6 @@ include:
 
 permalink: pretty
 
-aux_links:
-  QTools on GitHub: https://github.com/Elliot-Padfield/qtools.github.io
 
 footer_content: >
   Documentation built with <a href="https://just-the-docs.com/">Just the Docs</a>.
