@@ -1,0 +1,12 @@
+.logo-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 16px;
+  align-items: center;
+}
+
+.logo-grid img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
