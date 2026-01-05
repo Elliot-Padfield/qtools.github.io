@@ -6,6 +6,15 @@ nav_order: 1
 
 # QTools
 
+<div class="logo-grid">
+  <img src="/assets/templates/Logo.svg" alt="QDissolve logo">
+  <img src="/assets/templates/Logo.svg" alt="QGrid logo">
+  <img src="/assets/templates/Logo.svg" alt="QOutline logo">
+  <img src="/assets/templates/Logo.svg" alt="QSlice logo">
+  <img src="/assets/templates/Logo.svg" alt="QPaint logo">
+</div>
+
+
 Small, focused Unity tools that solve one problem well.
 
 QTools is a growing collection of lightweight Unity Asset Store packages built for rapid prototyping, technical art, and production-ready workflows.  

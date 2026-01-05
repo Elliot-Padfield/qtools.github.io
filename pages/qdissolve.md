@@ -1,10 +1,14 @@
 ---
 title: QDissolve
-nav_order: 10
+layout: default
 parent: QTools
+nav_order: 1
 ---
 
+
 # QDissolve
+
+![QDissolve header](/assets/templates/BannerWide.svg)
 
 A lightweight dissolve shader for Unity with clear controls and no setup overhead.
 
