@@ -7,11 +7,11 @@ nav_order: 1
 # QTools
 
 <div class="logo-grid">
-  <img src="/assets/templates/Logo.svg" alt="QDissolve logo">
-  <img src="/assets/templates/Logo.svg" alt="QGrid logo">
-  <img src="/assets/templates/Logo.svg" alt="QOutline logo">
-  <img src="/assets/templates/Logo.svg" alt="QSlice logo">
-  <img src="/assets/templates/Logo.svg" alt="QPaint logo">
+  <img src="{{ site.baseurl }}/assets/templates/Logo.svg" alt="QDissolve logo">
+  <img src="{{ site.baseurl }}/assets/templates/Logo.svg" alt="QGrid logo">
+  <img src="{{ site.baseurl }}/assets/templates/Logo.svg" alt="QOutline logo">
+  <img src="{{ site.baseurl }}/assets/templates/Logo.svg" alt="QSlice logo">
+  <img src="{{ site.baseurl }}/assets/templates/Logo.svg" alt="QPaint logo">
 </div>
 
 

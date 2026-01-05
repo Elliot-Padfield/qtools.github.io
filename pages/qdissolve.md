@@ -8,7 +8,7 @@ nav_order: 1
 
 # QDissolve
 
-![QDissolve header](/assets/templates/BannerWide.svg)
+![QDissolve header]({{ site.baseurl }}/assets/qdissolve/qdissolveheader.svg)
 
 A lightweight dissolve shader for Unity with clear controls and no setup overhead.
 
